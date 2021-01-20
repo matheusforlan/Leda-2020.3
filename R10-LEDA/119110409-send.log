@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-28T18:32:39.950-0300</date>
+  <logger>MATHEUS BEZERRA ANDRADE</logger>
+  <level>FINE</level>
+  <message>File 119110409-MATHEUS BEZERRA ANDRADE.zip was received. It was sent by MATHEUS BEZERRA ANDRADE from IP 192.168.1.4 at 28-11-2020 18*32*39</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-29T14:48:06.475-0300</date>
+  <logger>MATHEUS BEZERRA ANDRADE</logger>
+  <level>FINE</level>
+  <message>File 119110409-MATHEUS BEZERRA ANDRADE.zip was received. It was sent by MATHEUS BEZERRA ANDRADE from IP 192.168.1.4 at 29-11-2020 14*48*06</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-29T15:18:00.857-0300</date>
+  <logger>MATHEUS BEZERRA ANDRADE</logger>
+  <level>FINE</level>
+  <message>File 119110409-MATHEUS BEZERRA ANDRADE.zip was received. It was sent by MATHEUS BEZERRA ANDRADE from IP 192.168.1.4 at 29-11-2020 15*18*00</message>
+</record>
